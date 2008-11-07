@@ -1,3 +1,6 @@
 <?php
-$config_initialized=false;
+    $DB_HOST = localhost;
+    $DB_USERNAME = root;
+    $DB_PASSWORD = dbpwd;
+    $config_initialized = true;
 ?>
