@@ -1,0 +1,4 @@
+Lojban-com python edition
+
+This is intended to be set up as the PythonHandler of this directory using mod_python. Set up apache appropriately and make a symlink to lojbancom in 
+the python import path
